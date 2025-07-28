@@ -1,6 +1,8 @@
 # learning_about_provider
 
-A new Flutter project.
+This project is focused on learning about Provider, a state management solution in Flutter.
+
+Provider is a recommended approach for managing state in Flutter applications. Here, I will be exploring its features, usage patterns, and best practices.
 
 ## Getting Started
 
@@ -14,4 +16,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# learning-about-provider
